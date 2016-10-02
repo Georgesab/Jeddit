@@ -29,9 +29,9 @@
                 "type": "font"
             },
             {
-                "file": "images/test",
+                "file": "images/DEMO_APP_ICON",
                 "menuIcon": true,
-                "name": "IMAGES_TEST",
+                "name": "IMAGES_DEMO_APP_ICON",
                 "type": "bitmap"
             }
         ]
