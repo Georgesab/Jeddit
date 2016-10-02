@@ -1,0 +1,53 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "georgesab@outlook.com",
+    "longName": "Jeddit - Jokes from Reddit",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/test",
+                "menuIcon": true,
+                "name": "IMAGES_TEST",
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Jeddit - Reddit Jokes",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "41fd61eb-641d-4d2d-91c4-ffecbf3a2870",
+    "versionCode": 1,
+    "versionLabel": "0.1",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": false
+    }
+}
